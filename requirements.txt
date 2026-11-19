@@ -1,0 +1,23 @@
+# Python 3.11 or 3.12.
+# Install PyTorch with CUDA first (https://pytorch.org/get-started/locally/), for example:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+# then:
+#   pip install -r requirements.txt
+# Versions below are the ones used for the reported results (Kaggle notebooks pin ultralytics and albumentations).
+torch>=2.4
+torchvision>=0.19
+ultralytics==8.4.214
+albumentations==2.0.8
+opencv-python>=4.10
+numpy>=1.26
+pandas>=2.2
+pyarrow>=15
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.4
+pillow>=10
+pyyaml>=6
+tqdm>=4.66
+gradio>=5
+jupyter
+kaggle>=1.7

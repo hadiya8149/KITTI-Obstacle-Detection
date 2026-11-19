@@ -1,0 +1,23 @@
+# data: downloaded from the Kaggle dataset, never committed (see README)
+data/
+*.zip
+
+# training runs and caches
+runs/
+*.cache
+yolov8*.pt
+yolo11*.pt
+
+# weights: only the two models the app uses are committed; the others are in the GitHub Release
+weights/*.pt
+!weights/FINAL.pt
+!weights/E6.pt
+
+# python / jupyter / editors
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.vscode/
+.DS_Store
+Thumbs.db
