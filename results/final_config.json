@@ -1,0 +1,21 @@
+{
+ "base": "yolov8s.pt",
+ "config": {
+  "imgsz": 960,
+  "batch": 16,
+  "rfs": true,
+  "lr0": 0.002
+ },
+ "chosen_trial": "E4e_lr002",
+ "round1_kept": [
+  "E4b_img960",
+  "E4c_rfs"
+ ],
+ "val_primary": {
+  "E4a_ref": 0.6696356606186296,
+  "E4b_img960": 0.7865856385185234,
+  "E4c_rfs": 0.6818422324177731,
+  "E4d_combined": 0.7321179713766052,
+  "E4e_lr002": 0.7786844472778629
+ }
+}
