@@ -1,0 +1,3 @@
+subset,images,primary_mAP50_mod,mAP50_all8
+near-duplicate (<= 2 frames),853,0.9683317858817154,0.9551138086556716
+no close neighbour (> 2 frames),270,0.9561275803914896,0.9248892066195875
