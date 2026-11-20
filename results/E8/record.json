@@ -1,0 +1,9 @@
+{
+ "exp_id": "E8",
+ "description": "FINAL and E6 on fog / rain / low-light test copies, 3 severities",
+ "research_question": "RQ4",
+ "mean_corrupted_FINAL": 0.5707527009913077,
+ "mean_corrupted_E6": 0.6220953642692835,
+ "smoke_test": false,
+ "logged_at": "2026-11-18T00:16:23"
+}
