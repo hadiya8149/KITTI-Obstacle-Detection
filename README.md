@@ -1,6 +1,7 @@
 # Camera-Based Obstacle Detection for Driver Assistance (KITTI)
 
 **Group 16**: Hadiya Asif (25L-8020), Raiha Noor (26L-8031), Fizza Zaitoon (26L-8029)
+
 Instructor: Dr. Asma Ahmad | TA: Burhan Hadi Butt | FAST NUCES Lahore
 
 We detect cars, pedestrians and cyclists in a single front-camera image, and test whether this is accurate and fast
