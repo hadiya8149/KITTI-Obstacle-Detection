@@ -50,7 +50,7 @@ Pedestrian and Cyclist at KITTI Moderate difficulty. FPS: RTX 3050 Laptop GPU, b
 | `notebooks/09_results_and_RQs.ipynb` | all results together and the answers to RQ1-RQ4 |
 | `app/` | demo app (`app.py`) and pipeline (`pipeline.py`) |
 | `results/` | metrics, predictions and figures of every experiment; `experiments.csv` lists them all |
-| `weights/` | `FINAL.pt` and `E6.pt` (the app's models); the other weights are in the GitHub Release |
+| `weights/` | `FINAL.pt` and `E6.pt` (the app's models); the other weights are not uploaded because of their size; available on request |
 
 ## Data
 
